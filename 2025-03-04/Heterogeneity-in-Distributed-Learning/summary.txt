@@ -1,0 +1,25 @@
+# Heterogeneity Matters even More in Distributed Learning: Study from Generalization Perspective
+
+## Authors
+Masoud Kavian, Milad Sefidgaran, Abdellatif Zaidi, Romain Chor
+
+## Published
+March 2025 (to be published in AISTATS 2025)
+
+## Abstract
+This paper investigates the effect of data heterogeneity across clients on the performance of distributed learning systems, specifically focusing on one-round Federated Learning. The research examines how heterogeneity impacts generalization error in systems where K clients each have n training samples generated from potentially different distributions.
+
+## Key Contributions
+1. Provides theoretical analysis of how data heterogeneity affects generalization in distributed learning
+2. Identifies specific mathematical relationships between heterogeneity and generalization error
+3. Demonstrates that heterogeneity can have even more significant effects than previously understood
+4. Offers insights for designing more robust federated learning systems
+
+## Methodology
+The research uses a mathematical framework to analyze generalization error in distributed learning when data distributions vary across clients. The analysis likely involves statistical learning theory and concentrates on how local models trained on heterogeneous data affect the global model's generalization capabilities.
+
+## Results
+The study concludes that heterogeneity among client data distributions has a more significant impact on generalization error than previously thought. The paper appears to provide theoretical bounds that quantify this relationship and explores various scenarios of data distribution differences.
+
+## Impact
+This work contributes to the fundamental understanding of federated and distributed learning systems. By providing rigorous analysis of how data heterogeneity impacts model generalization, it offers important insights for designing more effective distributed learning algorithms in real-world settings where data is naturally non-IID (independent and identically distributed). The findings are particularly relevant for privacy-preserving machine learning applications where data cannot be centralized.

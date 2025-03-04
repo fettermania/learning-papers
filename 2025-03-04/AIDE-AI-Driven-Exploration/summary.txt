@@ -1,0 +1,25 @@
+# AIDE: AI-Driven Exploration in the Space of Code
+
+## Authors
+Authors from WecoAI
+
+## Published
+February 2025
+
+## Abstract
+Machine learning development requires extensive labor and compute-intensive iteration. This paper introduces AIDE (AI-Driven Exploration), a machine learning engineering agent powered by large language models (LLMs). AIDE frames ML engineering as a code optimization problem and approaches trial-and-error as a tree search in the space of potential implementations.
+
+## Key Contributions
+1. AIDE frames machine learning engineering as code optimization and trial-and-error experimentation as tree search
+2. Implements LLM-powered engineering agents that can autonomously develop, modify, and improve machine learning code
+3. Demonstrates an approach to automate experimental ML workflows using code generation
+4. Provides a framework for AI-assisted R&D in machine learning projects
+
+## Methodology
+The AIDE system appears to use LLMs to generate potential code implementations, systematically iterate through them, and evaluate their performance using a tree-based search strategy. By leveraging LLMs to explore the space of possible code solutions, AIDE can automate much of the experimental process in ML engineering.
+
+## Results
+The paper shows that AIDE can effectively automate various ML engineering tasks, reducing the human effort required while maintaining or improving quality. The approach demonstrates how AI agents can be effective collaborators in the ML development process.
+
+## Impact
+AIDE represents a significant step toward automating machine learning engineering workflows. By reducing the manual labor component of ML experimentation, it could accelerate research and implementation cycles, potentially democratizing access to advanced ML techniques by lowering the expertise barrier. This work fits into the broader trend of using AI to improve AI development processes.

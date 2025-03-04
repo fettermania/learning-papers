@@ -1,0 +1,25 @@
+# Optimization Strategies for Enhancing Resource Efficiency in Transformers & Large Language Models
+
+## Authors
+Tom Wallace, Naser Ezzati-Jivan, Beatrice Ombuki-Berman
+
+## Published
+February 2025 (Accepted for ACM's ICPE 2025 as a Short Paper)
+
+## Abstract
+This paper explores optimization techniques for improving resource efficiency in Transformer architectures and Large Language Models (LLMs). As NLP advancements increasingly rely on the Transformer architecture, the associated computational and resource costs have grown substantially with ever-increasing model sizes. The research investigates several optimization approaches including Quantization, Knowledge Distillation, and Pruning, with a focus on their effectiveness in reducing resource requirements while maintaining model performance.
+
+## Key Contributions
+1. Comprehensive analysis of various optimization techniques for LLMs
+2. Evaluation of trade-offs between performance and resource efficiency
+3. Practical recommendations for implementing optimization strategies
+4. Benchmark results showing efficiency gains across different model sizes
+
+## Methodology
+The paper appears to systematically evaluate different optimization techniques using controlled experiments. The researchers likely applied various optimization methods to standard transformer models and measured performance metrics alongside resource utilization (computation, memory, energy).
+
+## Results
+Findings indicate that strategic application of optimization techniques can significantly reduce resource requirements while maintaining acceptable performance levels. The paper likely presents quantitative comparisons of different approaches and identifies optimal strategies for different deployment scenarios.
+
+## Impact
+This work addresses a critical challenge in deploying large language models at scale. As LLMs continue to grow in size and complexity, resource efficiency becomes increasingly important for practical applications, especially on edge devices or in resource-constrained environments. The optimization strategies presented could help make advanced language models more accessible and sustainable by reducing their computational footprint.

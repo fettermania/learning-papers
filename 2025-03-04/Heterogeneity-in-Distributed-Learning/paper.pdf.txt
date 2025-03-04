@@ -1,0 +1,4 @@
+This is a placeholder file. The actual PDF can be downloaded from: https://arxiv.org/pdf/2503.01598.pdf
+
+Title: Heterogeneity Matters even More in Distributed Learning: Study from Generalization Perspective
+ArXiv ID: 2503.01598
